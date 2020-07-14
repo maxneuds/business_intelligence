@@ -43,4 +43,4 @@ Paula Möller, Maximilian Neudert
 - Einbettung von Verfahren in BI über Dashboards
 - Anwendungsbeispiel
   - https://www.kaggle.com/aungpyaeap/supermarket-sales
-  - Schöne Plots dazu
+  - Geeignete Plots dazu
